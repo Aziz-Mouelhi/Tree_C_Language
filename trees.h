@@ -10,6 +10,11 @@ typedef struct noeud
     struct noeud *Left ;
     
 }noeud;
+typedef struct trees
+{
+    noeud  *trees;
+};
+
 
 
         /* function*/
